@@ -1,3 +1,9 @@
+/*
+	A universal firmware decryption tool for Ruijie Networks.
+	Author : winmt (https://github.com/winmt)
+	Date : 2023/2/26
+*/
+
 #include <stdio.h>
 #include <fcntl.h>
 #include <stdlib.h>
@@ -63,10 +69,7 @@ int main(int argc, char **argv, const char **envp)
 	while(size > 0)
 	{
 		int len = size;
-		if (size > 0x1000)
-		{
-			len = 0x1000;
-		}
+		if (size > 0x1000) len = 0x1000;
 		
 		memset(enc_buf, 0, sizeof(enc_buf));
 		memset(dec_buf, 0, sizeof(dec_buf));

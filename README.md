@@ -4,11 +4,11 @@
 
 `rg-decrypt` is a universal firmware decryption tool for `Ruijie Networks`.
 
-The tool is programmed by [@winmt](https://github.com/winmt "https://github.com/winmt"), which is suitable for decrypting lots of encryption firmwares (mainly include wireless APs and various Routers) of `Ruijie Networks`. 
+The tool is programmed by [@winmt](https://github.com/winmt "https://github.com/winmt"), which is suitable for decrypting lots of encryption firmwares of `Ruijie Networks`(mainly for the firmwares of `Reyee` family, including various routers, wireless APs and switches). 
 
-You can download the latest firmwares of `Ruijie Networks` here: [https://www.ruijienetworks.com/resources](https://www.ruijienetworks.com/resources "https://www.ruijienetworks.com/resources")
+You can download the latest firmwares here: [https://www.ruijienetworks.com/resources](https://www.ruijienetworks.com/resources "https://www.ruijienetworks.com/resources")
 
-You can also download the firmwares at: [https://www.ruijie.com.cn/fw/rj](https://www.ruijie.com.cn/fw/rj "https://www.ruijie.com.cn/fw/rj")
+You can also download more firmwares here: [https://www.ruijie.com.cn/fw/rj](https://www.ruijie.com.cn/fw/rj "https://www.ruijie.com.cn/fw/rj")
 
 ## Usage
 
